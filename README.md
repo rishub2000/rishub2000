@@ -52,5 +52,4 @@ Hindi (Local Talker)
 </a>
 
 <br>
-[![Rishub's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishub2000&show_icons=true&theme=radical)](https://github.com/rishub2000/github-readme-stats)
-
+- [![Rishub's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishub2000&show_icons=true&theme=radical)](https://github.com/rishub2000/github-readme-stats)
