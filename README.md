@@ -2,7 +2,22 @@
 - 👀 I’m interested in Cybersecurity, AI ML and Flask web development.
 - 🌱 I’m currently learning CCNA and studying for GRE
 - 📫 How to reach me by rishubcheddlla@gmail.com
-- 
+- <style>
+.flex-container {
+  display: flex;
+  flex-wrap: nowrap;
+  background-color: DodgerBlue;
+}
+
+.flex-container > div {
+  background-color: #f1f1f1;
+  width: 100px;
+  margin: 10px;
+  text-align: center;
+  line-height: 75px;
+  font-size: 30px;
+}
+</style>
 - [![Rishub's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishub2000&show_icons=true&theme=radical)](https://github.com/rishub2000/github-readme-stats)
 
 <h2>Languages I am Profficient are:</h2>
