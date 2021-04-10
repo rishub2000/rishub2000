@@ -36,7 +36,7 @@ Hindi (Local Talker)
   </div>
   </body>
   
-<h2>Tech Skills I Have:</h2><br>
+<h2>Tech Skills I Have:</h2>
 <h3>React JS with Flask or Django in backend(But i prefer FLASK due to API and productivity Speed)</h3>
 <div class = "container">
   <img src="https://user-images.githubusercontent.com/54368593/114262492-e43e5d00-99fd-11eb-8e5f-d37c96c98d08.png" height="200">
