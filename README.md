@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cybersecurity, AI ML and Flask web development.
 - 🌱 I’m currently learning CCNA and studying for GRE
 - 📫 How to reach me by rishubcheddlla@gmail.com
-- <style>
+<style>
 ul {
   display: flex;
   flex-wrap: wrap;
