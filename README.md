@@ -18,11 +18,11 @@ I Love Anime and My MOTO is:
 
 Programming Languages I Am profficient are:
 ![image](https://user-images.githubusercontent.com/54368593/114262443-9de8fe00-99fd-11eb-8f38-f328736e9671.png | width = "100")
-  <img src="https://user-images.githubusercontent.com/54368593/114262443-9de8fe00-99fd-11eb-8f38-f328736e9671.png" width="1000">
+  <img src="https://user-images.githubusercontent.com/54368593/114262443-9de8fe00-99fd-11eb-8f38-f328736e9671.png" width="100">
 ![image](https://user-images.githubusercontent.com/54368593/114262456-a8a39300-99fd-11eb-9e09-fc181999fa67.png|width = 100)
-  <img src="https://user-images.githubusercontent.com/54368593/114262456-a8a39300-99fd-11eb-9e09-fc181999fa67" width="1000">
+  <img src="https://user-images.githubusercontent.com/54368593/114262456-a8a39300-99fd-11eb-9e09-fc181999fa67" width="100">
 ![image](https://user-images.githubusercontent.com/54368593/114262464-afcaa100-99fd-11eb-8720-0fcacec402f5.png|width = 100)
-  <img src="https://user-images.githubusercontent.com/54368593/114262464-afcaa100-99fd-11eb-8720-0fcacec402f5.png" width="1000">
+  <img src="https://user-images.githubusercontent.com/54368593/114262464-afcaa100-99fd-11eb-8720-0fcacec402f5.png" width="100">
 
 Tech Skills I Have:
 React JS with Flask or Django in backend(But i prefer FLASK due to API and productivity Speed)
