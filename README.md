@@ -32,7 +32,7 @@ Hindi (Local Talker)
   <div class = "container">
   <img src="https://user-images.githubusercontent.com/54368593/114263030-c4f4ff00-9a00-11eb-9cc1-9eef052a602c.png" height="200">
   <img src="https://user-images.githubusercontent.com/54368593/114262456-a8a39300-99fd-11eb-9e09-fc181999fa67.png" height="200">
-  <img src="https://user-images.githubusercontent.com/54368593/114262464-afcaa100-99fd-11eb-8720-0fcacec402f5.png" height="200">
+  <img src="https://user-images.githubusercontent.com/54368593/114263439-169e8900-9a03-11eb-9fb7-4a9f89448612.png" height="200">
   </div>
   </body>
   
@@ -51,6 +51,6 @@ Hindi (Local Talker)
 <img src="https://user-images.githubusercontent.com/54368593/114262569-5a42c400-99fe-11eb-8044-9233fa28088a.png" height="50">
 </a>
 
-
+<br>
 [![Rishub's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishub2000&show_icons=true&theme=radical)](https://github.com/rishub2000/github-readme-stats)
 
