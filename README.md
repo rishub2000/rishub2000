@@ -10,18 +10,7 @@ English (Smooth Talker)
 Telugu (Local talker)
 Tamil (Local Talker)
 Hindi (Local Talker)
-
-<h2>I Love Anime and My MOTO is:</h2>
-<center>
-  <img src="https://user-images.githubusercontent.com/54368593/114262415-7bef7b80-99fd-11eb-94f9-6d423ce2a01e.png" width="1000">
- </center>
-
-<h2>Programming Languages I Am profficient are:</h2><br>
-  <br><br>
-  
-  
-  <body>
-  <style>
+ <style>
   .container {
      display: flex;
      flex-wrap: wrap;
@@ -32,6 +21,17 @@ Hindi (Local Talker)
      margin: 5px;
 }
   </style>
+<h2>I Love Anime and My MOTO is:</h2>
+<center>
+  <img src="https://user-images.githubusercontent.com/54368593/114262415-7bef7b80-99fd-11eb-94f9-6d423ce2a01e.png" width="1000">
+ </center>
+
+<h2>Programming Languages I Am profficient are:</h2><br>
+  <br><br>
+  
+  
+  <body>
+ 
   <div class = "container">
   <img src="https://user-images.githubusercontent.com/54368593/114263030-c4f4ff00-9a00-11eb-9cc1-9eef052a602c.png" height="100">
   <img src="https://user-images.githubusercontent.com/54368593/114262456-a8a39300-99fd-11eb-9e09-fc181999fa67.png" height="100">
