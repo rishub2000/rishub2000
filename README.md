@@ -17,6 +17,12 @@ Hindi (Local Talker)
  </center>
 
 <h2>Programming Languages I Am profficient are:</h2><br>
+<div class="flex-container">
+  <div> <img src="https://user-images.githubusercontent.com/54368593/114263030-c4f4ff00-9a00-11eb-9cc1-9eef052a602c.png" height="150"></div>
+  <div><img src="https://user-images.githubusercontent.com/54368593/114262456-a8a39300-99fd-11eb-9e09-fc181999fa67.png" height="150"></div>
+  <div>  <img src="https://user-images.githubusercontent.com/54368593/114262464-afcaa100-99fd-11eb-8720-0fcacec402f5.png" height="150">
+</div>
+</div>
   <img src="https://user-images.githubusercontent.com/54368593/114263030-c4f4ff00-9a00-11eb-9cc1-9eef052a602c.png" height="150">
   <img src="https://user-images.githubusercontent.com/54368593/114262456-a8a39300-99fd-11eb-9e09-fc181999fa67.png" height="150">
   <img src="https://user-images.githubusercontent.com/54368593/114262464-afcaa100-99fd-11eb-8720-0fcacec402f5.png" height="150">
@@ -28,8 +34,9 @@ Hindi (Local Talker)
   <img src="https://user-images.githubusercontent.com/54368593/114262501-edc7c500-99fd-11eb-9d2c-16adb5e4ec00.png" height="200">
 
 <h2>Artificial Intelligence and DeepLearning with OpenCV<br><></h2>
-<img src="https://user-images.githubusercontent.com/54368593/114262522-0afc9380-99fe-11eb-8799-614a3470a1b2.png" height="50"><br>
-For My certifications and accomplishments Refer here:
+<img src="https://user-images.githubusercontent.com/54368593/114262522-0afc9380-99fe-11eb-8799-614a3470a1b2.png" height="50"><br><br>
+  
+<h1>For My certifications and accomplishments Refer here:</h1>
 <a href="https://www.linkedin.com/in/rishub-cheddlla/" class="button">
 <img src="https://user-images.githubusercontent.com/54368593/114262569-5a42c400-99fe-11eb-8044-9233fa28088a.png" height="50">
 </a>
