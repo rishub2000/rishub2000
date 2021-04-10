@@ -46,7 +46,7 @@ Hindi (Local Talker)
 <h2>Artificial Intelligence and DeepLearning with OpenCV<br></h2>
 <img src="https://user-images.githubusercontent.com/54368593/114262522-0afc9380-99fe-11eb-8799-614a3470a1b2.png" height="500"><br><br>
   
-<h1>For My certifications and accomplishments Refer here:</h1>
+<h1>For My certifications and accomplishments</h1>
 <a href="https://www.linkedin.com/in/rishub-cheddlla/" class="button">
 <img src="https://user-images.githubusercontent.com/54368593/114262569-5a42c400-99fe-11eb-8044-9233fa28088a.png" height="50">
 </a>
