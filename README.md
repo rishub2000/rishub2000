@@ -17,7 +17,7 @@ Hindi (Local Talker)
  </center>
 
 <h2>Programming Languages I Am profficient are:</h2><br>
-  <img src="https://user-images.githubusercontent.com/54368593/114262443-9de8fe00-99fd-11eb-8f38-f328736e9671.png" height="200">
+  <img src="https://user-images.githubusercontent.com/54368593/114263030-c4f4ff00-9a00-11eb-9cc1-9eef052a602c.png" height="200">
   <img src="https://user-images.githubusercontent.com/54368593/114262456-a8a39300-99fd-11eb-9e09-fc181999fa67.png" height="200">
   <img src="https://user-images.githubusercontent.com/54368593/114262464-afcaa100-99fd-11eb-8720-0fcacec402f5.png" height="200">
 
