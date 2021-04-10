@@ -21,8 +21,8 @@ Hindi (Local Talker)
   <img src="https://user-images.githubusercontent.com/54368593/114262456-a8a39300-99fd-11eb-9e09-fc181999fa67.png" height="200">
   <img src="https://user-images.githubusercontent.com/54368593/114262464-afcaa100-99fd-11eb-8720-0fcacec402f5.png" height="200">
 
-Tech Skills I Have:<br>
-React JS with Flask or Django in backend(But i prefer FLASK due to API and productivity Speed)
+<h2>Tech Skills I Have:</h2><br>
+<h3>React JS with Flask or Django in backend(But i prefer FLASK due to API and productivity Speed)</h3>
   <img src="https://user-images.githubusercontent.com/54368593/114262492-e43e5d00-99fd-11eb-8e5f-d37c96c98d08.png" height="200">
 
   <img src="https://user-images.githubusercontent.com/54368593/114262501-edc7c500-99fd-11eb-9d2c-16adb5e4ec00.png" height="200">
