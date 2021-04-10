@@ -23,8 +23,9 @@ Programming Languages I Am profficient are:<br>
 
 Tech Skills I Have:
 React JS with Flask or Django in backend(But i prefer FLASK due to API and productivity Speed)
-![image](https://user-images.githubusercontent.com/54368593/114262492-e43e5d00-99fd-11eb-8e5f-d37c96c98d08.png|width = 100)
-![image](https://user-images.githubusercontent.com/54368593/114262501-edc7c500-99fd-11eb-9d2c-16adb5e4ec00.png|width = 100)
+  <img src="https://user-images.githubusercontent.com/54368593/114262492-e43e5d00-99fd-11eb-8e5f-d37c96c98d08.png" height="200">
+
+  <img src="https://user-images.githubusercontent.com/54368593/114262501-edc7c500-99fd-11eb-9d2c-16adb5e4ec00.png" height="200">
 
 Artificial Intelligence and DeepLearning with OpenCV
 ![image](https://user-images.githubusercontent.com/54368593/114262522-0afc9380-99fe-11eb-8799-614a3470a1b2.png|width = 100)
