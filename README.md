@@ -17,9 +17,32 @@ Hindi (Local Talker)
  </center>
 
 <h2>Programming Languages I Am profficient are:</h2><br>
+  <img class="item" src="https://user-images.githubusercontent.com/54368593/114263030-c4f4ff00-9a00-11eb-9cc1-9eef052a602c.png" height="100">
+  <img class="item" src="https://user-images.githubusercontent.com/54368593/114262456-a8a39300-99fd-11eb-9e09-fc181999fa67.png" height="100">
+  <img class="item" src="https://user-images.githubusercontent.com/54368593/114262464-afcaa100-99fd-11eb-8720-0fcacec402f5.png" height="100">
+  
+  <br><br>
+  
+  
+  <body>
+  <style>
+  .container {
+     display: flex;
+     flex-wrap: wrap;
+     padding: 5px;
+     justify-content: space-evenly;
+}
+.item {
+     margin: 5px;
+}
+  </style>
+  <div class = "container">
   <img src="https://user-images.githubusercontent.com/54368593/114263030-c4f4ff00-9a00-11eb-9cc1-9eef052a602c.png" height="100">
   <img src="https://user-images.githubusercontent.com/54368593/114262456-a8a39300-99fd-11eb-9e09-fc181999fa67.png" height="100">
   <img src="https://user-images.githubusercontent.com/54368593/114262464-afcaa100-99fd-11eb-8720-0fcacec402f5.png" height="100">
+  </div>
+  </body>
+  
 <h2>Tech Skills I Have:</h2><br>
 <h3>React JS with Flask or Django in backend(But i prefer FLASK due to API and productivity Speed)</h3>
   <img src="https://user-images.githubusercontent.com/54368593/114262492-e43e5d00-99fd-11eb-8e5f-d37c96c98d08.png" height="200">
