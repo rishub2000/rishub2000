@@ -51,5 +51,3 @@ Hindi (Local Talker)
 <img src="https://user-images.githubusercontent.com/54368593/114262569-5a42c400-99fe-11eb-8044-9233fa28088a.png" height="50">
 </a>
 
-<br>
-- [![Rishub's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishub2000&show_icons=true&theme=radical)](https://github.com/rishub2000/github-readme-stats)
