@@ -11,7 +11,9 @@ Hindi (Local Talker)
 
 I Love Anime and My MOTO is:
 <center>
-![Stop Pitying yourself  Pity yourself, and life and life becomes an endless nightmare](https://user-images.githubusercontent.com/54368593/114262415-7bef7b80-99fd-11eb-94f9-6d423ce2a01e.png|width = 1250)<\center>
+![Stop Pitying yourself  Pity yourself, and life and life becomes an endless nightmare](https://user-images.githubusercontent.com/54368593/114262415-7bef7b80-99fd-11eb-94f9-6d423ce2a01e.png|width = 250)
+  <img src="https://user-images.githubusercontent.com/54368593/114262415-7bef7b80-99fd-11eb-94f9-6d423ce2a01e.png" width="250">
+  <\center>
 
 Programming Languages I Am profficient are:
 ![image](https://user-images.githubusercontent.com/54368593/114262443-9de8fe00-99fd-11eb-8f38-f328736e9671.png | width = "100")
