@@ -33,9 +33,14 @@ Hindi (Local Talker)
   <img src="https://user-images.githubusercontent.com/54368593/114263030-c4f4ff00-9a00-11eb-9cc1-9eef052a602c.png" height="200">
   <img src="https://user-images.githubusercontent.com/54368593/114262456-a8a39300-99fd-11eb-9e09-fc181999fa67.png" height="200">
   </div>
+ 
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishub2000)](https://github.com/anuraghazra/github-readme-stats)
+ 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rishub2000&theme=buefy-dark)
 
 ![GitHub metrics](https://metrics.lecoq.io/rishub2000)  
+ 
   </body>
   
 <h2>Tech Skills I Have:</h2>
